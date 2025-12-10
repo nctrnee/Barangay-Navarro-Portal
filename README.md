@@ -6,7 +6,7 @@ A web portal for Barangay Navarro (General Trias) that enables residents to view
 - Community announcements (expandable details)  
 - Online document request form (certificate, clearance, indigency)  
 - Contact form with email/phone details  
-- User registration and login (frontend demo; backend required for persistence)  
+- User registration and login (frontend demo)  
 - Responsive, accessible, and framework-free (HTML/CSS/vanilla JS)
 
 ## Technologies
