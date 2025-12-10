@@ -15,9 +15,8 @@ A web portal for Barangay Navarro (General Trias) that enables residents to view
 - JavaScript
   
 ## Notes
-- Current registration/login and data flows are front-end only. Implement a backend and secure storage (bcrypt/argon2 + HTTPS) for production.
-- Consider splitting CSS/JS into separate files and minifying assets before production.
-
+- Current registration/login and data flows are front-end only. Implement a backend and secure storage for production.
+  
 ## Contributors
 - Arniel Trillo Jr.  
 - Daniel Mondragon  
