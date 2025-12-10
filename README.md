@@ -1,6 +1,6 @@
 # Barangay Navarro Portal
 
-A professional web portal for Barangay Navarro (General Trias) that enables residents to view announcements, request official documents, contact barangay staff, and register/login for online services.
+A web portal for Barangay Navarro (General Trias) that enables residents to view announcements, request official documents, contact barangay staff, and register/login for online services.
 
 ## Features
 - Community announcements (expandable details)  
